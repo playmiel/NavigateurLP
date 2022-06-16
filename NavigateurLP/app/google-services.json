@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "457972133843",
+    "firebase_url": "https://navigateur-lp.firebaseio.com",
+    "project_id": "navigateur-lp",
+    "storage_bucket": "navigateur-lp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457972133843:android:a2c8b4a003f45f9d",
+        "android_client_info": {
+          "package_name": "com.ngppliz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457972133843-40k86a6bfbjd3ddncbj5lopbthki8h7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQx_JdRiTVgTgUgSnAVRtueBsR6ROCstE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
